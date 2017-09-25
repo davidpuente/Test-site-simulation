@@ -1,0 +1,28 @@
+{
+  "name": "test-site-simulation",
+  "version": "1.0.0",
+  "description": "Simulation of visual impairments",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidpuente/Test-site-simulation.git"
+  },
+  "keywords": [
+    "impairments",
+    "universal-design",
+    "guildelines",
+    "learning",
+    "education"
+  ],
+  "author": "David Puente and Markus Sørem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidpuente/Test-site-simulation/issues"
+  },
+  "homepage": "https://github.com/davidpuente/Test-site-simulation#readme"
+}
